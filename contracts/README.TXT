@@ -1,0 +1,1 @@
+The Simple Auction is a classic auction 
